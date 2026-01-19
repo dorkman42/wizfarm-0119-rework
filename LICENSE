@@ -1,19 +1,20 @@
-Gendive Non-Commercial License
+Gendive License
 
 Copyright (c) 2026 Gendive
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to use,
-copy, modify, and distribute the Software for non-commercial purposes only,
-subject to the following conditions:
+copy, modify, and distribute the Software, subject to the following conditions:
 
-1. NON-COMMERCIAL USE ONLY
-   The Software may not be used for commercial purposes. Commercial purposes
-   include, but are not limited to:
+1. COMMERCIAL USE RESTRICTION
+   Commercial use of the Software requires prior written permission from Gendive.
+   Commercial purposes include, but are not limited to:
    - Selling the Software or derivative works
    - Using the Software to provide commercial services
    - Incorporating the Software into commercial products
    - Using the Software for any activity intended to generate revenue
+
+   Non-commercial use (research, education, personal projects) is freely permitted.
 
 2. ATTRIBUTION
    The above copyright notice and this permission notice shall be included in
@@ -33,21 +34,22 @@ subject to the following conditions:
    SOFTWARE.
 
 5. COMMERCIAL LICENSING
-   For commercial use, please contact Gendive for a separate commercial license.
+   For commercial use permission, please contact Gendive.
 
 ---
 
 본 소프트웨어 및 관련 문서 파일("소프트웨어")의 사본을 취득한 모든 사람에게,
-다음 조건에 따라 비상업적 목적으로만 소프트웨어를 사용, 복사, 수정, 배포할 수
-있는 권한이 무료로 부여됩니다:
+다음 조건에 따라 소프트웨어를 사용, 복사, 수정, 배포할 수 있는 권한이 부여됩니다:
 
-1. 비상업적 사용만 허용
-   소프트웨어는 상업적 목적으로 사용할 수 없습니다. 상업적 목적에는 다음이
-   포함되지만 이에 국한되지 않습니다:
+1. 상업적 사용 제한
+   소프트웨어의 상업적 사용은 Gendive의 사전 서면 허가가 필요합니다.
+   상업적 목적에는 다음이 포함되지만 이에 국한되지 않습니다:
    - 소프트웨어 또는 파생 저작물의 판매
    - 소프트웨어를 사용한 상업적 서비스 제공
    - 소프트웨어를 상업용 제품에 통합
    - 수익 창출을 목적으로 하는 모든 활동에 소프트웨어 사용
+
+   비상업적 사용(연구, 교육, 개인 프로젝트)은 자유롭게 허용됩니다.
 
 2. 귀속
    위의 저작권 고지와 이 허가 고지는 소프트웨어의 모든 사본 또는 상당 부분에
@@ -65,4 +67,4 @@ subject to the following conditions:
    모든 청구, 손해 또는 기타 책임에 대해 책임을 지지 않습니다.
 
 5. 상업용 라이센스
-   상업적 사용을 원하시면 별도의 상업용 라이센스를 위해 Gendive에 문의하십시오.
+   상업적 사용 허가를 원하시면 Gendive에 문의하십시오.
