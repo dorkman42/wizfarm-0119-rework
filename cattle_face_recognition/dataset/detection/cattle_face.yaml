@@ -1,0 +1,12 @@
+# 소 얼굴 검출 데이터셋
+path: /Users/dorkman/wizfarm-model/cattle_face_recognition/dataset/detection
+train: images/train
+val: images/val
+
+# 클래스
+nc: 1
+names:
+  0: cattle_face
+
+# 키포인트 (5개)
+kpt_shape: [5, 3]  # [num_keypoints, (x, y, visibility)]

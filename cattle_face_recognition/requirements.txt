@@ -1,0 +1,28 @@
+# 소 얼굴 인식 시스템 의존성
+# 모든 라이브러리는 상업적 사용 가능한 라이센스입니다
+
+# 핵심 라이브러리
+numpy>=1.21.0
+opencv-python>=4.5.0
+
+# 딥러닝 프레임워크
+torch>=1.10.0
+torchvision>=0.11.0
+
+# 객체 검출 (Apache 2.0)
+ultralytics>=8.0.0
+
+# 얼굴 인식 (MIT)
+# insightface>=0.7.0  # 선택적 - 더 정확한 인식을 위해
+
+# 웹 API (MIT / BSD)
+fastapi>=0.100.0
+uvicorn>=0.23.0
+python-multipart>=0.0.6
+pydantic-settings>=2.0.0
+aiofiles>=23.0.0
+aiohttp>=3.8.0
+
+# 기타 유틸리티
+Pillow>=8.0.0
+tqdm>=4.60.0

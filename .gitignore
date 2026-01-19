@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+venv/
+.venv/
+*.egg
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+cattle_face_recognition/uploads/
+cattle_face_recognition/gallery/
+cattle_face_recognition/web/.next/
+cattle_face_recognition/web/node_modules/
+*.pkl
+*.pt
+!cattle_face_recognition/models/*.pt
+
+# Logs
+*.log
+nohup.out
+
+# Temp files
+*.tmp
+*.bak
